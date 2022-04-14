@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Computer Science at Ho Chi Minh University Of Technology 
 - 🌱 I’m trying to become a Software Engineer
-- 📫 How to contact me: phamphuoc19032001@gmail.com
+- 📫 How to contact me: phuoc.pham19032001@gmail.com
 
 ## 🚀 Languages and Tools:
 
