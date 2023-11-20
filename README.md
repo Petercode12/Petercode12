@@ -13,6 +13,6 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a target="_blank"> <img src="https://banner2.cleanpng.com/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg"/> </a> 
+    <a target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
